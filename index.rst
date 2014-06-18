@@ -9,13 +9,13 @@ Welcome to Blox's User Guide!
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
     
    initial.rst
    gettingstarted.rst
    yourfiles.rst
    video_and_pictures.rst
-   your_music.rst
+   music.rst
 
 
 Indices and tables
